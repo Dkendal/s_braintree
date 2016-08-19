@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    solidus_braintree (0.0.1)
+    s_braintree (0.0.1)
       rails (~> 4.2)
 
 GEM
@@ -109,7 +109,7 @@ PLATFORMS
 
 DEPENDENCIES
   pg
-  solidus_braintree!
+  s_braintree!
 
 BUNDLED WITH
    1.10.6

@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :solidus_braintree do
+# task :s_braintree do
 #   # Task goes here
 # end

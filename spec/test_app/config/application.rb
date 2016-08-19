@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require 'rails/all'
 
 Bundler.require(*Rails.groups)
-require "solidus_braintree"
+require "s_braintree"
 
 module TestApp
   class Application < Rails::Application
